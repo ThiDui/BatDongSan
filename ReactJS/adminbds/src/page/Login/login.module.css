@@ -1,0 +1,39 @@
+.loginBorder{
+    /* position: relative;  */
+    background-color: #214a80;
+    height: 100vh;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logindark{
+    max-width: 350px;
+    max-height: 550px;
+  width: 90%;
+  background-color: #1e2833;
+  padding: 40px;
+  border-radius: 4px;
+  /* transform: translate(-50%, -50%); */
+  /* position: absolute;  */
+   /* top: 50%;
+  left: 50%; */
+  
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.2);
+  
+  
+}
+
+.illustration {
+    text-align: center;
+    padding: 20px 0 40px 0;
+    color: #2980ef;
+    
+    
+  }
+
+  .btn{
+    width: 100%;
+    background-color: #214a80;
+    color: white;
+  }
+  

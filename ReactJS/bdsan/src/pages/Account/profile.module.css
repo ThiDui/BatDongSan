@@ -1,0 +1,63 @@
+.box{
+    padding:120px 20px 0px 20px;
+    height: 100vh;
+}
+
+.content{
+    
+    background-color: white;
+    padding: 20px;
+}
+
+.title{
+   
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.boxItem{
+    /* background-color: rgb(252, 251, 251); */
+    box-shadow: 0px 0px 15px 0px rgba(26, 48, 92, 0.12);
+    border: 1px solid rgb(217, 216, 216);
+    border-radius: 4px;
+    padding: 20px;
+}
+
+.item{
+    display: flex;
+}
+.itemTitle{
+    flex:30%;
+    display:grid;
+  
+}
+
+.itemContent{
+    flex:70%;
+    
+}
+
+.contentedit{
+    border:none;
+    padding: 0px 50px 50px 50px;
+   
+}
+
+.titleEditPf{
+    
+    padding: 30px 0px 20px 0px;
+    color: rgb(82, 85, 172);
+    
+}
+.titleNameEditPf{
+    border-bottom: 1px solid rgb(197, 185, 185);
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.avatar {
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+   
+  }

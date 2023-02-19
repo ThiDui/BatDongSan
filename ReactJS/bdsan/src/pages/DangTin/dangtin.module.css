@@ -1,0 +1,343 @@
+.products{
+    padding:120px 0px 30px 0px;
+   
+   height:100%;
+    
+}
+
+.content{
+    
+    background-color: white;
+    padding-top: 10px;
+    box-shadow: 0px 0px 26px 0px rgba(135, 137, 141, 0.12);
+    width:70%;
+}
+
+.contentTin{
+    background-color: white;
+    padding-top: 10px;
+    box-shadow: 0px 0px 26px 0px rgba(135, 137, 141, 0.12);
+}
+
+.contentTinUser{
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    box-shadow: 0px 0px 26px 0px rgba(135, 137, 141, 0.12);
+}
+.padConent{
+    
+    padding-top: 8px;
+}
+
+.form{
+    padding:10px;
+   
+    width:90%;
+    margin:0 auto;
+    /* display:flex;
+    flex-direction: column;  */
+
+    
+    
+}
+.ic{
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 500;
+    color: rgb(224, 60, 49);
+}
+.label{
+   
+    font-weight: 600;
+}
+
+.hr{
+    margin-bottom: 13px;
+    margin-top: 15px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+
+}
+
+.hrBtop{
+    height: 1px;
+    border-top: 1px solid rgb(207, 204, 204);
+    flex: 1 1 0%;
+    margin-left: 12px;
+}
+
+.hrText{
+   
+  
+    line-height: 16px;
+    font-weight: 500;
+    color: rgb(153, 153, 153); 
+}
+
+.GrAddress{
+    
+    padding-top: 10px;
+    display: flex;
+    
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: row;
+}
+.tinhthanh{
+    
+    flex: 1 1 0%;
+}
+
+.quanhuyen{
+     
+    flex: 1 1 0%;
+    margin-left: 12px;
+}
+
+.boxGia{
+    flex: 1 1 0%;
+}
+
+.boxTt{
+    margin-left: 12px; 
+}
+.boxQuantity{
+    
+    width: 17%;
+
+}
+.boxchitiet{
+    flex: 1 1 0%;
+    font-weight: 600;
+}
+.btnAdd{
+    
+    padding-bottom: 2px;
+    display: flex;
+    
+ }
+
+ .btnSearch{
+    flex: 1 1 0%;
+ }
+
+
+ 
+
+.contentDT{
+   padding-top:0px;
+    
+    background-color:white;
+}
+
+.nameContent{
+    color: #343e44;
+    font-size: 26px;
+    line-height: 40px;
+    font-family: 'FontMuli';
+    margin: 0px 0 15px;
+    font-weight: 700;
+    padding-right: 150px;
+}
+.address{
+    font-size: 15px;
+    font-family: 'FontMuli';
+    font-weight: 400;
+}
+.dacdiemBds{
+    padding-top: 15px;
+    float: left;
+     
+}
+.titleBds{
+    font-size: 20px;
+    font-family: 'FontMuli';
+    font-weight: 600;
+}
+.motachitiet{
+    border:none; 
+}
+.dacdiemBox{
+   
+   
+    
+    float: left;
+}
+.dacdiemItem{
+    margin-right: 30px;
+    border-top: 1px solid #e2e0e0;
+    border-bottom: 1px solid #F2F2F2;
+    float: left;
+    padding-bottom: 10px;
+    
+
+}
+.dacdiemIcon{
+    float: left;
+    padding-top:10px;
+}
+
+.dacdiemTitle{
+    margin-left: 15px; 
+    float:left;
+    width: 12rem;
+    padding-top:10px;
+    font-weight:500;
+}
+.dacdiemValue{
+    float:left;
+    width: 128px;
+    padding-top:10px;
+}
+.contenBds{
+    border: none;
+   padding: 5px;
+    box-shadow: 0px 0px 26px 0px rgb(22 73 172 / 12%);
+    float: left;
+}
+.rowImg{
+    display:flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    
+}
+
+.colImg{
+    flex:50%;
+    padding:0 4px;
+   
+    
+}
+
+.imgIndex{
+margin-top: 8px;
+height:120px;
+width:100%;
+object-fit: contain;
+}
+.headerImg{
+    border: 1px solid #0d6efd;
+    border-radius: 3px;
+    width: 100%;
+    background-color:#0d6efd;
+    color:white;
+    font-size: 17px;
+    text-align:center;
+    padding: 5px;
+    
+}
+.tablecolor{
+    background-color:#3a98b8;
+     color:white;
+}
+
+/* .boxTaiKhoan{
+    padding: 20px;
+} */
+.title{
+   
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+.boxItem{
+    background-color: rgb(238, 236, 236);
+    padding: 20px;
+}
+
+.item{
+    display: flex;
+}
+.itemTitle{
+    flex:10%;
+    display:grid;
+  
+}
+
+.itemContent{
+    flex:90%;
+    
+}
+
+.menuDangTin{
+    box-shadow: 0px 0px 15px 0px rgba(26, 27, 28, 0.12);
+    border-radius: 4px;
+    padding: 10px 30px 10px 30px;
+    height: auto;
+    background-color: #fdfbfb;
+}
+
+.productsTinUser{
+    padding:120px 0px 30px 0px;
+   
+   height:100vh; 
+}
+
+.editIcon{
+    color:#0d6efd;
+    font-size: 20px;
+   
+    
+}
+.delIcon{
+    color: red;
+    font-size: 20px;
+    
+}
+
+.profile{
+   
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+   
+}
+
+.profileImg{
+    border:none;
+    padding-right: 15px;
+}
+
+.profileInf{
+    border: none;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  }
+.itemGroup{
+    color: white;
+    background-color: #53725c;
+}
+
+.listItem{
+    
+    padding-left: 50px;
+}
+.listItem:hover{
+    background-color: #e0e2e2;
+    padding-left: 50px;
+}
+
+.btn{
+    padding: 1px;
+    border-radius: 4px;
+    background-color: #069a57;
+    color: white;
+}
+
+.btnNot{
+    padding: 5px;
+    border-radius: 4px;
+    background-color: #f65d1b;
+    color: white;
+}

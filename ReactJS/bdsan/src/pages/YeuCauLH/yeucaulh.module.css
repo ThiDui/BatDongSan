@@ -1,0 +1,54 @@
+
+
+
+
+
+.productsTinUser{
+    padding:120px 0px 30px 0px;
+   
+   height:100vh; 
+}
+
+.img{
+    object-fit: contain;
+    object-fit: fill;
+    height:10rem;
+    
+    
+} 
+
+.boxItem{
+    box-shadow: 0px 0px 15px 0px rgba(19, 25, 37, 0.12);
+    position: relative;
+    border-radius: 4px;
+    padding-left: 15px;
+   
+    width: 70%;
+}
+.lh{
+    padding-bottom: 20px;
+}
+.Item1{
+    /* border: 1px solid rgb(67, 162, 54); */
+    padding: 0;
+}
+
+
+.boxFooter{
+    /* border: 1px solid red; */
+    padding: 5px;
+    position: absolute;
+    bottom:0;
+    right: 0;
+
+}
+.bntFt{
+    /* border: 2px solid rgb(0, 255, 51); */
+    padding-right: 40px;
+}
+
+.collap{
+    box-shadow: 0px 0px 4px 0px rgba(19, 25, 37, 0.12);
+    padding: 2px;
+    background-color: rgb(240, 241, 241);
+}

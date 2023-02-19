@@ -1,0 +1,15 @@
+.loginForm{
+    border: 1px solid rgb(167, 165, 165);
+    border-radius:5px;
+    /* width: 30%; */
+    padding: 50px;
+}
+.lglink{
+    text-align: center;
+}
+.btn-login{
+    font-size: 20px;
+}
+.err{
+    color: red;
+}

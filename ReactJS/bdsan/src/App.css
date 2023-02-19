@@ -1,0 +1,86 @@
+.navbarheader{
+  height: 100px;
+  
+}
+.navtext{
+    font-size: 22px;
+    
+
+}
+.main-footer{
+    
+    clear: left;
+    background-color:rgb(46, 44, 44);
+    color:white;
+    padding-top:30px;
+}
+.btn-fb{
+    padding-right: 30px;
+}
+.navtext-cl{
+    color:white !important;
+    padding-right: 30px !important;
+}
+.line{
+    border: 0;
+    float: left;
+    width: 1px;
+    height: 16px;
+    background: #e5e5e5;
+    margin: 15px 0;
+}
+.btn-dtin{
+    font-size:18px;
+   
+    /* box-shadow: 0px 0px 26px 0px rgba(146, 159, 185, 0.12); */
+    
+}
+
+.tt{
+    padding:25px;
+    
+}
+
+.contentApp{
+   
+    border: 3px solid red;
+    padding-top: 200px;
+}
+.dropdownTK{
+  
+  padding-top: 5px;
+ 
+}
+
+.toggleTK{
+  border: none;
+}
+
+.dropdown-toggle::after {
+    display: none !important; 
+  }
+
+
+.titleMenuBBar a{
+    color: white;
+    padding-right: 30px !important;
+}
+
+.loGoImg{
+    vertical-align: middle;
+    width: 100px;
+    height: 80px;
+    
+    /* border: 1px solid rgb(97, 93, 93); */
+    /* width: 200px;
+    height: 100px; */
+}
+.nameLogo{
+    
+    padding-top: 6px;
+    color: rgb(189, 195, 203);
+}
+
+  
+  
+ 
